@@ -26,6 +26,13 @@ My strengths: attentive to detail, energetic, creative, highly motivated and com
 
 ### Skills
 
+* HTML5, CSS3/SCSS, BEM, Bootstrap
+* JavaScript ES6+ (Basics, DOM, JSON, Asynchronous JavaScript)
+* React (Basics)
+* Git, GitHub
+* Webpack
+* Figma, Adobe Photoshop
+
 **********
 
 ### Code example
