@@ -72,6 +72,11 @@ function askForMissingDetails(list) {
 
 ### Experience
 
+Academic projects:
+
+* teamwork: website for **quiz game in London** - [that1quiz](https://yulialugovaya.github.io/ITGirls_project_that1quiz/). My part: creating *header*, *footer*, pages *gallery* and *faq*; technology stack: HTML, CSS/SCSS, JavaScript (Basics), BEM, Webpack. [Code on GitHab](https://github.com/YuliaLugovaya/ITGirls_project_that1quiz).
+* teamwork: **JavaScript guide** - [JS Cheatsheet](https://yulialugovaya.github.io/js-cheatsheet/). My part: creating pages *array* and *web*; technology stack: HTML, CSS/SCSS, JavaScript (including work with API), Materialize, Webpack. [Code on GitHab](https://github.com/YuliaLugovaya/js-cheatsheet).
+
 **********
 
 ### Education
