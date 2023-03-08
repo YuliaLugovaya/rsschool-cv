@@ -18,6 +18,10 @@
 
 ### Summary
 
+I aspire to be a part of a friendly and professional team, where I can develop my JavaScript development skills and learn new skills to achieve team results.
+
+My strengths: attentive to detail, energetic, creative, highly motivated and come up with solutions to seemingly intractable problems.
+
 **********
 
 ### Skills
