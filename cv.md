@@ -81,6 +81,12 @@ Academic projects:
 
 ### Education
 
+* University: Francisk Skorina Gomel State University, Jurisprudence major
+* Courses:
+  * [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/): JavaScript Algorithms and Data Structures, Basic JavaScript
+  * [Hexlet](https://ru.hexlet.io/courses/js-basics): Basics of JavaScript
+  * [ITGirlschool](https://itgirlschool.com/frontend-developer): Front-end Development
+
 **********
 
 ### Languages
