@@ -90,3 +90,9 @@ Academic projects:
 **********
 
 ### Languages
+
+* Russian
+* Belarussian
+
+#### English
+Pre-Intermediate. I try to learn English in different ways: Duolingo, watching movies in English, reading articles with google translator.
