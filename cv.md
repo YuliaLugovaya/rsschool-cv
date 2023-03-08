@@ -37,6 +37,37 @@ My strengths: attentive to detail, energetic, creative, highly motivated and com
 
 ### Code example
 
+**From Codewars**
+
+**Coding Meetup #16 - Higher-Order Functions Series - Ask for missing details**
+
+*You will be given an array of objects representing data about developers who have signed up to attend the next coding meetup that you are organising. Given the following input array:*
+```
+let list = [
+  { firstName: null, lastName: 'I.', country: 'Argentina', continent: 'Americas', age: 35, language: 'Java' },
+  { firstName: 'Lukas', lastName: 'X.', country: 'Croatia', continent: 'Europe', age: 35, language: null },
+  { firstName: 'Madison', lastName: 'U.', country: 'United States', continent: 'Americas', age: 32, language: 'Ruby' } 
+];
+```
+*Write a function that*
+* *adds the question property to each object in the input array where the developer has not provided the relevant details (marked with a null value in JavaScript, with the default value in COBOL). The value of the question property should be the following string:*
+`Hi, could you please provide your <property name>`;
+* *and returns only the developers with missing details.*
+
+**My solution:**
+```
+function askForMissingDetails(list) {
+  return list.filter(function(el) {
+   for(let key in el) {
+      if(el[key] === null) {
+        el.question = `Hi, could you please provide your ${key}.`;
+        return el;
+      }
+    }
+ }) 
+}
+```
+
 **********
 
 ### Experience
